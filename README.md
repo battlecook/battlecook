@@ -1,3 +1,3 @@
 ## battlecook
 
-software engineer
+software programmer
