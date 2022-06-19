@@ -1,9 +1,7 @@
 ## battlecook
 
 email : battlecookresume@gmail.com
-
 github : [https://github.com/battlecook](https://github.com/battlecook)
-
 stackoverflow : [https://stackoverflow.com/users/13429399/battlecook](https://stackoverflow.com/users/13429399/battlecook)
 
 
